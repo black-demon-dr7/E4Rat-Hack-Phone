@@ -2,6 +2,7 @@
 
 <video width="600" controls>
     <source src="VID_20241004_124203_630.mp4" type="video/mp4">
+    Your browser does not support the video tag.
 </video>
 
 ## 🟥 What does the app do? ☠⚡️
