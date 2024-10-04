@@ -1,8 +1,8 @@
 # Phone Hacking Application E4Rat 🙂🔄🔥
 
-<video width="600" controls>
-    <source src="VID_20241004_124203_630.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+<video width="320" height="240" controls>
+  <source src="https://github.com/black-demon-dr7/E4Rat-Hack-Phone/blob/main/VID_20241004_124203_630.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 ## 🟥 What does the app do? ☠⚡️
@@ -23,7 +23,7 @@
 - 🗑 Format the victim's device.
 - 🔔 Sending annoying notifications to the victim.
 
-<hr> 
+<hr>
 
 - You will get an explanation of how to modify the application and customize the images, names, and everything else in it + you can mine the victim’s application with the features and shapes you want 😈🔥.
 - The hacking process is done by sending an application to the victim, and when it is installed, the data is sent directly to the admin version, and the application disappears automatically after installation + the application runs in the background continuously and without stopping 📍🃏.
