@@ -1,9 +1,9 @@
 # Phone Hacking Application E4Rat 🙂🔄🔥
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/black-demon-dr7/E4Rat-Hack-Phone/blob/main/VID_20241004_124203_630.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+#### Video Tutorial
+<a href="https://github.com/black-demon-dr7/E4Rat-Hack-Phone/blob/main/VID_20241004_124203_630.mp4">
+    <img src="https://github.com/black-demon-dr7/E4Rat-Hack-Phone/blob/main/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A4-%D9%A1%D9%A0-%D9%A0%D9%A4-%D9%A1%D9%A3-%D9%A3%D9%A1-%D9%A3%D9%A3-%D9%A1%D9%A0_b6a9359dfd118e21a3404ab4a54b6284.jpg" alt="Video Tutorial" style="width: 20%; max-width: 100px; height: auto;">
+</a>
 
 ## 🟥 What does the app do? ☠⚡️
 
